@@ -1,0 +1,68 @@
+# --- Вкладка браузера и поисковики ---
+page_title = Soliko Games
+page_description = Soliko Games is an independent game development studio from Armenia. We make our games with great care and from the bottom of our hearts.
+# --- Превью ссылки в мессенджерах и соцсетях ---
+share_title = Soliko Games — independent game studio
+share_description = An independent studio from Armenia making games with great care and passion.
+
+# --- Меню слева и переключатель языка ---
+menu_about = About
+menu_games = Games
+lang_switch = Русский
+
+# --- Шапка ---
+header_title = About
+
+# Первая фраза (показывается при загрузке)
+slide1_label = Who we are
+slide1_text = We make original games. For you. With love and care.
+
+# Вторая фраза
+slide2_label = Our goal
+slide2_text = To deliver an extraordinary, fun gaming experience. One you'll always want to come back to.
+
+# --- Раздел «О студии» ---
+about_title = About the studio
+about_text = Soliko Games is an independent studio from Armenia. We are two developers. We make our own games for Roblox and support them from the first idea to post-release updates.
+
+point1_title = Independent studio
+point1_text = A two-person team based in Armenia.
+
+point2_title = Made for Roblox
+point2_text = Our games run on computers and phones and are published on the Roblox platform.
+
+point3_title = Two languages
+point3_text = Every game launches in English and Russian.
+
+point4_title = First game
+point4_text = In development now.
+
+# --- Раздел «Игры» ---
+games_title = Games
+games_text = Our first game is in development. More details soon.
+game_title = Cat Cafe
+game_text = A ~purr~fect cozy game. Build the cat cafe of your dreams.
+game_status = In development
+
+# --- Подвал: карточки ---
+roblox_card_title = Roblox
+roblox_card_text = The platform our games are made for.
+roblox_card_button = Visit Roblox
+
+# Карточка со ссылкой на другую языковую версию (пишется на её языке)
+lang_card_title = Русская версия
+lang_card_text = Версия сайта на русском языке.
+lang_card_button = Перейти
+
+# --- Подвал: нижняя строка ---
+copyright = © 2026 SOLIKO GAMES LLC. All rights reserved.
+footer_note = Roblox is a trademark of Roblox Corporation. We are not affiliated with Roblox Corporation.
+
+# --- Служебные подписи для экранных дикторов (на экране не видны) ---
+skip_link = Skip to content
+menu_label = Main
+slider_label = About Soliko Games
+prev_label = Previous phrase
+next_label = Next phrase
+photo1_alt = A developer crafting a delicious game for you
+photo2_alt = A player exploring wonderful worlds in our games
